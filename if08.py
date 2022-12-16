@@ -19,11 +19,11 @@ def main(number):
     elif number==2:
         return "Tuesday"
     elif number==3:
-        return "wednesday"
+        return "Wednesday"
     elif number==4:
         return "Thursday"
     elif number==5:
-        return "Fiday"
+        return "Friday"
     elif number==6:
         return "Saturday"
     elif number==7:
